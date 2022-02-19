@@ -2,30 +2,38 @@
   "list": [
     {
       "id": 1,
-      "title": "Cabin in the Woods",
+      "title": "The Cabin in the Woods",
       "year": "2011",
-      "description": "",
+      "genre": "Horror, Mystery",
+      "day":"Thursday",
+      "description": "In the woods, five friends unknowingly summon a family of murderous zombies and inadvertently become involved in a ritual of human sacrifice held to please cruel subterranean deities.",
       "img":""
     },
     {
       "id": 2,
       "title": "As above so Below",
       "year": "2014",
-      "description": "",
+      "genre": "Horror, Mystery, Thriller",
+      "day":"Thursday",
+      "description": "Scarlett Marlowe's pursuit for the philosopher's stone turns into a nightmare when her exploration group begins to encounter supernatural experiences while descending into the Catacombs of Paris.",
       "img":""
     },
     {
       "id": 3,
       "title": "Dellamorte Dellamore",
       "year": "1994",
-      "description": "",
+      "genre":"Horror, Comedy",
+      "day":"Thursday",
+      "description": "Something is causing the dead to rise from their graves as flesh-eating zombies, and cemetery custodian Francesco Dellamorte grows tired of killing them all for the second time. One day, he falls for a beautiful woman whose husband has recently died -- but their affair is tragically interrupted by zombies ",
       "img":""
     },
     {
       "id": 4,
       "title": "Get Out",
       "year": "2017",
-      "description": "",
+      "genre":"Horror, Thriller",
+      "day":"Thursday",
+      "description": "Chris, an African-American man, decides to visit his Caucasian girlfriend's parents during a weekend getaway. Although they seem normal at first, he is not prepared to experience the horrors ahead.",
       "img":""
     }
   ]
