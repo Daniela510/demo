@@ -20,7 +20,7 @@
       "date":"1 June 2022",
       "time":"22.30",
       "description": "Tech experts from Silicon Valley sound the alarm on the dangerous impact of social networking, which Big Tech use in an attempt to manipulate and influence.",
-      "img":""
+      "img":"/images/the-social-dilemma.jpg"
     },
     {
       "id": 1,
@@ -108,7 +108,7 @@
       "date":"20 June 2022",
       "time":"22.30",
       "description": "Edward, a rich entrepreneur, hires Vivian, a prostitute, to accompany him to a few social events. Trouble ensues when he falls in love with her and they try to bridge the gap between their worlds.",
-      "img":"/images/.pretty-womanjpg"
+      "img":"/images/pretty-woman.jpg"
     },
     {
       "id": 12,
@@ -119,7 +119,7 @@
       "date":"22 June 2022",
       "time":"22.30",
       "description": "Identical triplets become separated at birth and adopted by three different families. Years later, their amazing reunion becomes a global sensation, but it also unearths an unimaginable secret that has radical repercussions.",
-      "img":"/images/tree-identical.jpg"
+      "img":"/images/three-identical.jpg"
     },
     {
       "id": 4,
