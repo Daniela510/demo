@@ -1,5 +1,16 @@
 {
   "list": [
+    {
+      "id": 3,
+      "title": "Dellamorte Dellamore",
+      "year": "1994",
+      "genre":"Horror, Comedy",
+      "day":"Thursday",
+      "date":"26 May 2022",
+      "time":"22.30",
+      "description": "Something is causing the dead to rise from their graves as flesh-eating zombies, and cemetery custodian Francesco Dellamorte grows tired of killing them all for the second time. One day, he falls for a beautiful woman whose husband has recently died -- but their affair is tragically interrupted by zombies ",
+      "img":"/images/dellamorte-dellamore.jpg"
+    },
       {
       "id": 5,
       "title": "Crazy, Stupid, Love",
@@ -89,15 +100,15 @@
       "img":"/images/free-solo.jpg"
     },
     {
-      "id": 3,
-      "title": "Dellamorte Dellamore",
-      "year": "1994",
-      "genre":"Horror, Comedy",
+      "id": 13,
+      "title": "Train to Busan",
+      "year": "2016",
+      "genre":"Horror, Action",
       "day":"Thursday",
       "date":"16 June 2022",
       "time":"22.30",
-      "description": "Something is causing the dead to rise from their graves as flesh-eating zombies, and cemetery custodian Francesco Dellamorte grows tired of killing them all for the second time. One day, he falls for a beautiful woman whose husband has recently died -- but their affair is tragically interrupted by zombies ",
-      "img":"/images/dellamorte-dellamore.jpg"
+      "description": "Seok-woo and his daughter are on a train to Busan on the latter's birthday to see his wife. However, the journey turns into a nightmare when they are trapped amidst a zombie outbreak in South Korea.",
+      "img":"/images/train-to-busan.jpg"
     },
     {
       "id": 8,
