@@ -71,6 +71,42 @@
       "day":"Rom-Com Monday",
       "description": "Edward, a rich entrepreneur, hires Vivian, a prostitute, to accompany him to a few social events. Trouble ensues when he falls in love with her and they try to bridge the gap between their worlds.",
       "img":""
+    },
+    {
+      "id": 9,
+      "title": "the social dilemma",
+      "year": "2020",
+      "genre": "Documentary",
+      "day":"Docu Wednesday",
+      "description": "Tech experts from Silicon Valley sound the alarm on the dangerous impact of social networking, which Big Tech use in an attempt to manipulate and influence.",
+      "img":""
+    },
+    {
+      "id": 10,
+      "title": "Blackfish",
+      "year": "2013",
+      "genre": "Documentary",
+      "day":"Docu Wednesday",
+      "description": "Tilikum, a captive killer whale, has taken the lives of three people. This impassioned documentary tells his story to unravel the consequences of keeping orcas in captivity and reveal how little is known about these highly intelligent mammals.",
+      "img":""
+    },
+    {
+      "id": 11,
+      "title": "Free Solo",
+      "year": "2018",
+      "genre": "Documentary",
+      "day":"Docu Wednesday",
+      "description": "Professional rock climber Alex Honnold attempts to conquer the first free solo climb of famed El Capitan's 900-metre vertical rock face at Yosemite National Park.",
+      "img":""
+    },
+    {
+      "id": 12,
+      "title": "Three Identical Strangers",
+      "year": "2018",
+      "genre": "Documentary",
+      "day":"Docu Wednesday",
+      "description": "Identical triplets become separated at birth and adopted by three different families. Years later, their amazing reunion becomes a global sensation, but it also unearths an unimaginable secret that has radical repercussions.",
+      "img":""
     }
   ]
 }
