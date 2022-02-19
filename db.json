@@ -5,7 +5,7 @@
       "title": "The Cabin in the Woods",
       "year": "2011",
       "genre": "Horror, Mystery",
-      "day":"Thursday",
+      "day":"Horror Thursday",
       "description": "In the woods, five friends unknowingly summon a family of murderous zombies and inadvertently become involved in a ritual of human sacrifice held to please cruel subterranean deities.",
       "img":""
     },
@@ -14,7 +14,7 @@
       "title": "As above so Below",
       "year": "2014",
       "genre": "Horror, Mystery, Thriller",
-      "day":"Thursday",
+      "day":"Horror Thursday",
       "description": "Scarlett Marlowe's pursuit for the philosopher's stone turns into a nightmare when her exploration group begins to encounter supernatural experiences while descending into the Catacombs of Paris.",
       "img":""
     },
@@ -32,8 +32,44 @@
       "title": "Get Out",
       "year": "2017",
       "genre":"Horror, Thriller",
-      "day":"Thursday",
+      "day":"Horror Thursday",
       "description": "Chris, an African-American man, decides to visit his Caucasian girlfriend's parents during a weekend getaway. Although they seem normal at first, he is not prepared to experience the horrors ahead.",
+      "img":""
+    },
+    {
+      "id": 5,
+      "title": "Crazy, Stupid, Love",
+      "year": "2011",
+      "genre": "Comedy, Romance",
+      "day":"Rom-Com Monday",
+      "description": "Cal, a middle-aged man, is heartbroken when his wife asks for a divorce. However, to get over his loss, he starts picking up women at a bar on the insistence of his new-found friend, Jacob.",
+      "img":""
+    },
+    {
+      "id": 6,
+      "title": "Notting Hill",
+      "year": "1999",
+      "genre":"Comedy, Romance",
+      "day":"Rom-Com Monday",
+      "description": "sWilliam, a British bookseller, meets and falls in love with Anna, a high-profile American actress. However, their relationship goes through many problems due to their different social statuses.",
+      "img":""
+    },
+    {
+      "id": 7,
+      "title": "Clueless",
+      "year": "1995",
+      "genre":"Comedy, Romance",
+      "day":"Rom-Com Monday",
+      "description": "Cher is a rich high-school student who is learning to cope with adolescence and its problems. She also helps a new student gain popularity and in the process discovers her own feelings for someone.",
+      "img":""
+    },
+    {
+      "id": 8,
+      "title": "Pretty Woman",
+      "year": "1990",
+      "genre":"Comedy, Romance",
+      "day":"Rom-Com Monday",
+      "description": "Edward, a rich entrepreneur, hires Vivian, a prostitute, to accompany him to a few social events. Trouble ensues when he falls in love with her and they try to bridge the gap between their worlds.",
       "img":""
     }
   ]
