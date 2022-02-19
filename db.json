@@ -9,7 +9,7 @@
       "date":"30 May 2022",
       "time":"22.30",
       "description": "Cal, a middle-aged man, is heartbroken when his wife asks for a divorce. However, to get over his loss, he starts picking up women at a bar on the insistence of his new-found friend, Jacob.",
-      "img":""
+      "img":"/images/crazy-stupid-love.jpg"
     },
     {
       "id": 9,
@@ -31,7 +31,7 @@
       "date":"2 June 2022",
       "time":"22.30",
       "description": "In the woods, five friends unknowingly summon a family of murderous zombies and inadvertently become involved in a ritual of human sacrifice held to please cruel subterranean deities.",
-      "img":""
+      "img":"/images/cabin-in-the-woods.jpg"
     },
     {
       "id": 6,
@@ -42,7 +42,7 @@
       "date":"6 June 2022",
       "time":"22.30",
       "description": "sWilliam, a British bookseller, meets and falls in love with Anna, a high-profile American actress. However, their relationship goes through many problems due to their different social statuses.",
-      "img":""
+      "img":"/images/notting-hill.jpg"
     },
     {
       "id": 10,
@@ -53,7 +53,7 @@
       "date":"8 June 2022",
       "time":"22.30",
       "description": "Tilikum, a captive killer whale, has taken the lives of three people. This impassioned documentary tells his story to unravel the consequences of keeping orcas in captivity and reveal how little is known about these highly intelligent mammals.",
-      "img":""
+      "img":"/images/blackfish.jpg"
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
       "date":"9 June 2022",
       "time":"22.30",
       "description": "Scarlett Marlowe's pursuit for the philosopher's stone turns into a nightmare when her exploration group begins to encounter supernatural experiences while descending into the Catacombs of Paris.",
-      "img":""
+      "img":"/images/as-above-so-below.jpg"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "date":"13 June 2022",
       "time":"22.30",
       "description": "Cher is a rich high-school student who is learning to cope with adolescence and its problems. She also helps a new student gain popularity and in the process discovers her own feelings for someone.",
-      "img":""
+      "img":"/images/clueless.jpg"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "date":"15 June 2022",
       "time":"22.30",
       "description": "Professional rock climber Alex Honnold attempts to conquer the first free solo climb of famed El Capitan's 900-metre vertical rock face at Yosemite National Park.",
-      "img":""
+      "img":"/images/free-solo.jpg"
     },
     {
       "id": 3,
@@ -97,7 +97,7 @@
       "date":"16 June 2022",
       "time":"22.30",
       "description": "Something is causing the dead to rise from their graves as flesh-eating zombies, and cemetery custodian Francesco Dellamorte grows tired of killing them all for the second time. One day, he falls for a beautiful woman whose husband has recently died -- but their affair is tragically interrupted by zombies ",
-      "img":""
+      "img":"/images/dellamorte-dellamore.jpg"
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
       "date":"20 June 2022",
       "time":"22.30",
       "description": "Edward, a rich entrepreneur, hires Vivian, a prostitute, to accompany him to a few social events. Trouble ensues when he falls in love with her and they try to bridge the gap between their worlds.",
-      "img":""
+      "img":"/images/.pretty-womanjpg"
     },
     {
       "id": 12,
@@ -119,7 +119,7 @@
       "date":"22 June 2022",
       "time":"22.30",
       "description": "Identical triplets become separated at birth and adopted by three different families. Years later, their amazing reunion becomes a global sensation, but it also unearths an unimaginable secret that has radical repercussions.",
-      "img":""
+      "img":"/images/tree-identical.jpg"
     },
     {
       "id": 4,
@@ -130,7 +130,7 @@
       "date":"23 June 2022",
       "time":"22.30",
       "description": "Chris, an African-American man, decides to visit his Caucasian girlfriend's parents during a weekend getaway. Although they seem normal at first, he is not prepared to experience the horrors ahead.",
-      "img":""
+      "img":"/images/get-out.jpg"
     }
   ]
 }
