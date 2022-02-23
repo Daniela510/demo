@@ -12,7 +12,7 @@
       "stars":"Rupert Everett, Anna Falchi, François Hadji-Lazaro",
       "description": "Something is causing the dead to rise from their graves as flesh-eating zombies, and cemetery custodian Francesco Dellamorte grows tired of killing them all for the second time. One day, he falls for a beautiful woman whose husband has recently died -- but their affair is tragically interrupted by zombies ",
       "img":"/images/dellamorte-dellamore.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
       {
       "id": 5,
@@ -26,7 +26,7 @@
       "stars":"Ryan Gosling, Emma Stone, Julianne Moore, Steve Carell",
       "description": "Cal, a middle-aged man, is heartbroken when his wife asks for a divorce. However, to get over his loss, he starts picking up women at a bar on the insistence of his new-found friend, Jacob.",
       "img":"/images/crazy-stupid-love.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 9,
@@ -40,7 +40,7 @@
       "stars":"Tristian Harris, Jaron Lanier, Tim Kendall",
       "description": "Tech experts from Silicon Valley sound the alarm on the dangerous impact of social networking, which Big Tech use in an attempt to manipulate and influence.",
       "img":"/images/the-social-dilemma.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 1,
@@ -54,7 +54,7 @@
       "stars":"Chris Hemsworth, Fran Kranz, Kristen Connolly, Anna Hutchison, Jesse Williams",
       "description": "In the woods, five friends unknowingly summon a family of murderous zombies and inadvertently become involved in a ritual of human sacrifice held to please cruel subterranean deities.",
       "img":"/images/cabin-in-the-woods.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 6,
@@ -68,7 +68,7 @@
       "stars":"Hugh Grant, Julia Roberts",
       "description": "William, a British bookseller, meets and falls in love with Anna, a high-profile American actress. However, their relationship goes through many problems due to their different social statuses.",
       "img":"/images/notting-hill.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 10,
@@ -82,7 +82,7 @@
       "stars":"Tilikum, Dawn Brancheau, Samantha Berg",
       "description": "Tilikum, a captive killer whale, has taken the lives of three people. This impassioned documentary tells his story to unravel the consequences of keeping orcas in captivity and reveal how little is known about these highly intelligent mammals.",
       "img":"/images/blackfish.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 2,
@@ -96,7 +96,7 @@
       "stars":"Drew Dowdle, Perdita Weeks, Ben Feldman",
       "description": "Scarlett Marlowe's pursuit for the philosopher's stone turns into a nightmare when her exploration group begins to encounter supernatural experiences while descending into the Catacombs of Paris.",
       "img":"/images/as-above-so-below.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 7,
@@ -110,7 +110,7 @@
       "stars":"Alicia Silverstone, Paul Rudd, Brittany Murphy, Stacey Dash",
       "description": "Cher is a rich high-school student who is learning to cope with adolescence and its problems. She also helps a new student gain popularity and in the process discovers her own feelings for someone.",
       "img":"/images/clueless.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 11,
@@ -124,7 +124,7 @@
       "stars":"Henry Louis Gates Jr., Angela Davis, Van Jones",
       "description": "Filmmaker Ava DuVernay explores the history of racial inequality in the United States, focusing on the fact that the nation's prisons are disproportionately filled with African-Americans.",
       "img":"/images/13th.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 13,
@@ -138,7 +138,7 @@
       "stars":"Gong Yoo, Yeon Sang‑ho, Don Lee, Jung Yu-mi",
       "description": "Seok-woo and his daughter are on a train to Busan on the latter's birthday to see his wife. However, the journey turns into a nightmare when they are trapped amidst a zombie outbreak in South Korea.",
       "img":"/images/train-to-busan.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 8,
@@ -166,7 +166,7 @@
       "stars":"David Kellman, Eddy Galland, Robert Shafran",
       "description": "Identical triplets become separated at birth and adopted by three different families. Years later, their amazing reunion becomes a global sensation, but it also unearths an unimaginable secret that has radical repercussions.",
       "img":"/images/three-identical.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     },
     {
       "id": 4,
@@ -180,7 +180,7 @@
       "stars":"Daniel Kaluuya",
       "description": "Chris, an African-American man, decides to visit his white girlfriend's parents during a weekend getaway. Although they seem normal at first, he is not prepared to experience the horrors ahead.",
       "img":"/images/get-out.jpg",
-      "iterations" : "0"
+      "iterations" : 0
     }
   ]
 }
